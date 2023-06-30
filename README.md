@@ -1,6 +1,6 @@
 # Sistema Crud
 
-Trabalho final de programação 2 - Ideal Escola Técnica
+Trabalho final de programação 2 - Técnica de Informatica
 
 Neste projeto, cada aluno será responsável por escolher e desenvolver um software completo, seguindo as seguintes regras:
 
